@@ -1,0 +1,42 @@
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.pdb
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csprojAssemblyReference.cache
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CoreCompileInputs.cache
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CopyComplete
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\stud\Downloads\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.AssemblyReference.cache
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CoreCompileInputs.cache
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.pdb
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.xml
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CopyComplete

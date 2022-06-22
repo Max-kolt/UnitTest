@@ -1,0 +1,18 @@
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\stud\Downloads\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+D:\Учебная практика\Поддержка и тестирование программных модулей\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
